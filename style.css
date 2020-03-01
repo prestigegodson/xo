@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: gray;
+}
+
+#myCanvas {
+    /* background-color: gray; */
+    background-color: #ffffff;
+    display: block;
+    margin: 10px auto;
+}
+
+#turnBlock {
+    width: 500px;
+    background-color: #ffffff !important;
+    margin: 5px auto;
+}
+
+#turnBlock p,
+span {
+    background-color: #ffffff !important;
+}
+
+#score {
+    width: 500px;
+    background-color: #ffffff !important;
+    margin: 5px auto;
+}
+
+#score p,
+span {
+    background-color: #ffffff !important;
+}
+
+#buttonWrapper {
+    width: 500px;
+    background-color: #ffffff !important;
+    margin: 5px auto;
+    padding: 10px 20px
+}
+
+#buttonWrapper button {
+    background-color: #ffffff;
+    color: #000000;
+}
